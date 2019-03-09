@@ -168,5 +168,11 @@ nav a{
     margin-bottom:10px;
 }
 
+/*--------- Boxes -----------*/
+
+/* I chose to color the boxes in HTML because I felt like it just created a big mess
+of CSS code for me. But I realize that in other circumstances that may not be the best
+option when you want to change their style.
+
 
 
