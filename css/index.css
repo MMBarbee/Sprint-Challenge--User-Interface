@@ -188,6 +188,16 @@ option when you want to change their style.
     
 }
 
+.top p{
+    margin-bottom:10px;
+}
+
+.top h2{
+    margin-top:10px;
+}
+
+/*---------------- */
+
 .bottom{
     margin-top:20px;
     display:flex;
@@ -195,6 +205,15 @@ option when you want to change their style.
     justify-content: space-between;
 
 }
+
+.bottom p{
+    margin-bottom:10px;
+}
+
+.bottom h2{
+    margin-top:10px;
+}
+/*---------------- */
 
 .strategy{
     border-bottom:1px dashed black;
@@ -216,3 +235,17 @@ option when you want to change their style.
     border-bottom:1px dashed black;
     width:48%;
 }
+
+button{
+    padding:5px 10px 5px 10px;
+    border-radius:5px;
+    background:white;
+    border: 2px solid black;
+    font-size:15px;
+    margin-bottom:20px;
+}
+
+.work{
+    margin-bottom:30px;
+}
+
