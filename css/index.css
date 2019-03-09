@@ -174,5 +174,9 @@ nav a{
 of CSS code for me. But I realize that in other circumstances that may not be the best
 option when you want to change their style.
 
+/*--------- About page top content -----------*/
 
-
+.about{
+    padding:10px;
+    border-bottom: 1px dashed black;
+}
