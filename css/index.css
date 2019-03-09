@@ -174,10 +174,45 @@ nav a{
 of CSS code for me. But I realize that in other circumstances that may not be the best
 option when you want to change their style.
 
-/*--------- About page top content -----------*/
+/*--------- About page content -----------*/
 
 .about{
     padding:13px;
     border-bottom: 1px dashed black;
 }
 
+.top{
+    margin-top:20px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.bottom{
+    margin-top:20px;
+    display:flex;
+    margin-bottom:35px;
+    justify-content: space-between;
+
+}
+
+.strategy{
+    border-bottom:1px dashed black;
+    width:48%;
+    
+}
+
+.how{
+    border-bottom:1px dashed black;
+    width:48%;
+}
+
+.places{
+    border-bottom:1px dashed black;
+    width:48%;
+}
+
+.collab{
+    border-bottom:1px dashed black;
+    width:48%;
+}
