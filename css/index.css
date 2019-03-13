@@ -144,3 +144,108 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*--------- Navigation -----------*/
+
+header{
+    display:flex;
+    margin-bottom:30px;
+    margin-top:30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a{
+        margin-right: 65px;
+        color:black;
+        text-decoration: none;
+}
+
+/*--------- Paragraphs Top -----------*/
+
+.top-content{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+
+/*--------- Boxes -----------*/
+
+/* I chose to color the boxes in HTML because I felt like it just created a big mess
+of CSS code for me. But I realize that in other circumstances that may not be the best
+option when you want to change their style.
+
+/*--------- About page content -----------*/
+
+.about{
+    padding:13px;
+    border-bottom: 1px dashed black;
+}
+
+.top{
+    margin-top:20px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.top p{
+    margin-bottom:10px;
+}
+
+.top h2{
+    margin-top:10px;
+}
+
+/*---------------- */
+
+.bottom{
+    margin-top:20px;
+    display:flex;
+    margin-bottom:35px;
+    justify-content: space-between;
+
+}
+
+.bottom p{
+    margin-bottom:10px;
+}
+
+.bottom h2{
+    margin-top:10px;
+}
+/*---------------- */
+
+.strategy{
+    border-bottom:1px dashed black;
+    width:48%;
+    
+}
+
+.how{
+    border-bottom:1px dashed black;
+    width:48%;
+}
+
+.places{
+    border-bottom:1px dashed black;
+    width:48%;
+}
+
+.collab{
+    border-bottom:1px dashed black;
+    width:48%;
+}
+
+button{
+    padding:5px 10px 5px 10px;
+    border-radius:5px;
+    background:white;
+    border: 2px solid black;
+    font-size:15px;
+    margin-bottom:20px;
+}
+
+.work{
+    margin-bottom:30px;
+}
+
